@@ -1,13 +1,22 @@
-# Weather Telegram Bot
+# Weather-Bot
 
-A simple Telegram bot that provides current weather information for any city worldwide.  
-Built with Node.js, using the OpenWeatherMap API for accurate and up-to-date weather data.
+🌤 **Weather-Bot** is a Telegram bot that provides you with current weather information for any city worldwide.
 
-**Features:**
-- Get real-time weather by sending `/weather <city>`
-- Supports temperature, humidity, wind speed, and weather description
-- Easy to use with clear commands
+---
 
-Try it now: [https://t.me/YourWeatherBotUsername](https://t.me/YourWeatherBotUsername)
+## Technologies Used
 
-For detailed source code and setup instructions, visit the [GitHub repository](https://github.com/DavChaxalyan/weather-telegram-bot).
+- Node.js  
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)  
+- OpenWeatherMap API  
+- Command handling for easy weather queries  
+
+---
+
+## Bot Link
+
+[Open the bot on Telegram](https://t.me/YourWeatherBotUsername)
+
+---
+
+Thank you for using Weather-Bot!
